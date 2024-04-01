@@ -7,3 +7,8 @@
     color: aqua;
     cursor:pointer;
 }
+
+#resultado{
+    font-size: 25px;
+    color: blue;
+}
